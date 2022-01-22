@@ -1,2 +1,2 @@
 # JavaScript-Music-Player
-![Alt text](/relative/sampleimage.png?raw=true "Optional Title")
+![sample image](https://raw.github.com/stratonis/JavaScript-Music-Player/master/sampleimage.png)
