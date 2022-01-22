@@ -1,7 +1,7 @@
 # JavaScript-Music-Player
 ![sample image](https://raw.github.com/stratonis/JavaScript-Music-Player/master/sampleimage.png)
 
-This music player is designed to live in the footer of the webpage, originally created for hosting archives, to allow a very small amount of audio files to be sampled. 
+This music player is designed to live in the footer of the webpage, originally created for hosting archives, to allow a very small amount of audio files to be sampled. Allows the user to select various albums, and the player will cycle through that particular album until a new one is selected.
 
 Based on [the Geeks for Geeks Music Player](https://github.com/sayantanm19/js-music-player), with the main differences being the album functionality and visual style of being in the footer.
 
