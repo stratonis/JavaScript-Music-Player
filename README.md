@@ -8,5 +8,5 @@ Based on [the Geeks for Geeks Music Player](https://github.com/sayantanm19/js-mu
 # Usage
 Warning, this project is in a very early state.
 
-In songs.js, objects can be created for different albums, each containing song information and paths.
-In index.html, the "section containing clickable albums" must contain the parameter for the javascript objects mentioned above.
+- In songs.js, objects can be created for different albums, each containing song information and paths.
+- In index.html, the "section containing clickable albums" must contain the parameter for the javascript objects mentioned above.
